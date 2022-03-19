@@ -11,7 +11,7 @@
     "ordenfabricacion":[
   {
     "id": 1,
-    "descripcion": "masa pizza",
+    "descripcion": "masa pizza 4 queso",
     "cantidad": 1, 
     "unidad": "und", 
     "insumos":[
