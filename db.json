@@ -4,4 +4,29 @@
     "firstName": "Antony", 
     "lastName":  "test"
   }
+},
+
+{
+  "ordenfabricacion:"
+{
+  "id": 1,
+  "descripcion": "masa pizza",
+  "cantidad": 1, 
+  "unidad": "und", 
+  "insumos":[
+    {
+      "id": 1, 
+      "nombre": "azucar", 
+      "cantidad": 1, 
+      "unidad": "libras"
+    }
+    , 
+    {
+      "id": 2, 
+      "nombre": "sal", 
+      "cantidad": 2, 
+      "unidad": "paquetes"
+    }
+  ]
+}
 }
