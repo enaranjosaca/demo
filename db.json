@@ -1,12 +1,12 @@
 
  {
-"user":
+"user":[ 
   {
     "id":1, 
     "firstName": "Antony", 
     "lastName":  "test"
-  },
-     
+  }
+     ],
 
     "ordenfabricacion":
   {
