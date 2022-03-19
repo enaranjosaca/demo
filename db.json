@@ -8,7 +8,7 @@
   }
      ],
 
-    "ordenfabricacion":
+    "ordenfabricacion":[
   {
     "id": 1,
     "descripcion": "masa pizza",
@@ -29,4 +29,5 @@
      }
     ]
   }
+     ]
 }
