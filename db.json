@@ -28,26 +28,6 @@
         "unidad": "paquetes"
      }
     ]
-  }, 
-     {
-    "id": 2,
-    "descripcion": "Pasta Salsa",
-    "cantidad": 5, 
-    "unidad": "Paquete", 
-    "insumos":[
-      {
-        "id": 1, 
-        "nombre": "queso", 
-        "cantidad": 1, 
-        "unidad": "libras"
-      }, 
-      {
-        "id": 2, 
-        "nombre": "mantequilla", 
-        "cantidad": 2, 
-        "unidad": "paquetes"
-     }
-    ]
   }
  ]
 }
