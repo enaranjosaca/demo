@@ -62,19 +62,22 @@
 				"Descripcion": "Manjar de Crema y Fresas Gde.",
 				"Cantidad": 1,
 				"ObservacionesA": "Observacion del Articulo 1 ",
-				"Impreso": "True"
+				"Impreso": "True", 
+			        "Estado":  "True"
 			},
 			{
 				"Descripcion": "Manjar de Crema y Fresas Gde.",
 				"Cantidad": 1,
 				"ObservacionesA": "Observacion del Ariculo 2 ",
-				"Impreso": "False"
+				"Impreso": "False", 
+				"Estado":  "False"
 			},
 			{
 				"Descripcion": "Manjar de Crema y Fresas Gde.",
 				"Cantidad": 1,
 				"ObservacionesA": "Observacion del Ariculo 3",
-				"Impreso": "True"
+				"Impreso": "True",
+				"Estado":  "False"
 			}
 		]
 	}]
