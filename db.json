@@ -55,8 +55,6 @@
       { 
         "Departamento": "Postres",
         "NroPedido": "P001/1",
-        "Descripcion": "Manjar de Crema y Fresas Gde.",
-        "Cantidad": 1, 
         "Observaciones": "Redondo + Feliz cumpleanos",
         "FechaCreacion": "21/3/22 15:16",
         "FechaEntrega": "29/3/22 15:16",
@@ -65,7 +63,29 @@
         "Vendedor": "Ricardo",
         "Sucursal": "CCN", 
         "EstadoReserva": 0, 
-        "ReservaDescrip": "RESERVADO"
+        "ReservaDescrip": "RESERVADO", 
+        "Observaciones": "Observacion del pedido"
+        "ArticulosPCC": [
+         {
+           "Descripcion": "Manjar de Crema y Fresas Gde.", 
+           "Cantidad": 1, 
+           "Observaciones": "Observacion del Articulo 1 ", 
+           "Impreso": "True"
+         }, 
+         {
+           "Descripcion": "Manjar de Crema y Fresas Gde.", 
+           "Cantidad": 1, 
+           "Observaciones": "Observacion del Ariculo 2 ", 
+           "Impreso": "False"
+         }, 
+         {
+           "Descripcion": "Manjar de Crema y Fresas Gde.", 
+           "Cantidad": 1, 
+           "Observaciones": "Observacion del Ariculo 3", 
+           "Impreso": "False"
+         }, 
+         
+        ]
       }
     ]
 
