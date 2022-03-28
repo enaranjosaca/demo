@@ -49,5 +49,23 @@
      }
     ]
   }
- ]
+ ],
+
+    "PedidosCC": [
+      { 
+        "Departamento": "Postres",
+        "NroPedido": "P001/1",
+        "Descripcion": "Manjar de Crema y Fresas Gde.",
+        "Cantidad": 1, 
+        "Observaciones": "Redondo + Feliz cumpleanos",
+        "FechaCreacion": "21/3/22 15:16",
+        "FechaEntrega": "29/3/22 15:16",
+        "HoraEntrega": "16:00",
+        "Cliente": "Ada",
+        "Vendedor": "Ricardo",
+        "Sucursal": "CCN"
+
+      }
+    ]
+
 }
