@@ -63,8 +63,9 @@
         "HoraEntrega": "16:00",
         "Cliente": "Ada",
         "Vendedor": "Ricardo",
-        "Sucursal": "CCN"
-
+        "Sucursal": "CCN", 
+        "EstadoReserva": 0, 
+        "ReservaDescrip": "RESERVADO"
       }
     ]
 
