@@ -64,7 +64,7 @@
         "Sucursal": "CCN", 
         "EstadoReserva": 0, 
         "ReservaDescrip": "RESERVADO", 
-        "Observaciones": "Observacion del pedido"
+        "Observaciones": "Observacion del pedido", 
         "ArticulosPCC": [
          {
            "Descripcion": "Manjar de Crema y Fresas Gde.", 
