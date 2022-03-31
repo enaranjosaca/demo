@@ -80,6 +80,29 @@
 				"Estado":  "False"
 			}
 		]
-	}]
+	}], 
+	
+    "roles": [
+      {
+        "id": 1,
+        "rol": "admin",
+        "caption": "Administrador",
+        "value" : "admin",
+        "active": true,
+        "read" : true, 
+        "write" : true
+      },  
+      {
+        "id": 1,
+        "rol": "user",
+        "caption": "Usuario",
+        "value" : "user",
+        "active": true,
+        "read" : true, 
+        "write" : false
+      }
+  
+    ]
+  
 
 }
