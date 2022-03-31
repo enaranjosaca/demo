@@ -95,7 +95,7 @@
       {
         "id": 2,
         "rol": "user",
-        "caption": "Usuario",
+        "caption": "Usuarios",
         "value" : "user",
         "active": true,
         "read" : true, 
