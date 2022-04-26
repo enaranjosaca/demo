@@ -110,14 +110,14 @@
     "open": false,
     "icon": "chart-bar",
     "rights": "can_view_users",
-    "path": '/', 
+    "path": "/", 
     "subitem": [
       {
         "id": 1,
         "nombre": " Analytics",
         "icon": "list",
-        "path": '/analytics',
-        "component": 'Analytics'
+        "path": "/analytics",
+        "component": "Analytics"
       },
     ],
   },
@@ -132,15 +132,15 @@
         "id": 1,
         "nombre": " Emitir F. Credito Fiscal(31)",
         "icon": "list",
-        "path": '/test',
-        "component": 'Test'
+        "path": "/test",
+        "component": "Test"
       },
       {
         "id": 2,
         "nombre": "Estado F. Credito Fiscal(31)",
         "icon": "list",
-        "path": '/test2',
-        "component": 'Test'
+        "path": "/test2",
+        "component": "Test"
       },
     ],
   },
