@@ -5,5 +5,64 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  
+  "MenuListApp" : [
+  {
+    "id": 0,
+    "descripcion": "DashBoard",
+    "open": false,
+    "icon": "chart-bar",
+    "rights": "can_view_users",
+    "path": "/", 
+    "subitem": [
+      {
+        "id": 1,
+        "nombre": " Analytics",
+        "icon": "list",
+        "path": "/analytics",
+        "component": "Analytics"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "descripcion": "Facturación Electronica",
+    "open": false,
+    "icon": "ad",
+    "rights": "can_view_users",
+    "subitem": [
+      {
+        "id": 1,
+        "nombre": " Emitir F. Credito Fiscal(31)",
+        "icon": "list",
+        "path": "/test",
+        "component": "Test"
+      },
+      {
+        "id": 2,
+        "nombre": "Estado F. Credito Fiscal(31)",
+        "icon": "list",
+        "path": "/test2",
+        "component": "Test"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "descripcion": "Notas Electrónicas",
+    "open": false,
+    "icon": "credit-card",
+    "rights": "can_view_admin",
+    "subitem": [
+      {
+        "id": 1,
+        "nombre": " Emitir Nota Debito(33)",
+        "icon": "list",
+      },
+      {
+        "id": 2,
+        "nombre": "Estado Nota Debito(34)",
+        "icon": "list",
+      }
+    ]
+  }]
 }
