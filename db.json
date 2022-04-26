@@ -59,6 +59,30 @@
 					"icon": "list"
 				}
 			]
+		}, 
+			{
+			"id": 3,
+			"descripcion": "Cofig. Usuarios",
+			"open": false,
+			"icon": "credit-card",
+			"rights": "can_view_admin",
+			"subitem": [{
+					"id": 1,
+					"nombre": "Agregar",
+					"icon": "list"
+				},
+				{
+					"id": 2,
+					"nombre": "Listar",
+					"icon": "list"
+				},
+				{
+					"id": 3,
+					"nombre": "Enviar",
+					"icon": "list"
+				}
+				    
+			]
 		}
 	], 
 	
