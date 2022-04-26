@@ -1,68 +1,89 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "MenuListApp" : [
-  {
-    "id": 0,
-    "descripcion": "DashBoard",
-    "open": false,
-    "icon": "chart-bar",
-    "rights": "can_view_users",
-    "path": "/", 
-    "subitem": [
-      {
-        "id": 1,
-        "nombre": " Analytics",
-        "icon": "list",
-        "path": "/analytics",
-        "component": "Analytics"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "descripcion": "Facturación Electronica",
-    "open": false,
-    "icon": "ad",
-    "rights": "can_view_users",
-    "subitem": [
-      {
-        "id": 1,
-        "nombre": " Emitir F. Credito Fiscal(31)",
-        "icon": "list",
-        "path": "/test",
-        "component": "Test"
-      },
-      {
-        "id": 2,
-        "nombre": "Estado F. Credito Fiscal(31)",
-        "icon": "list",
-        "path": "/test2",
-        "component": "Test"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "descripcion": "Notas Electrónicas",
-    "open": false,
-    "icon": "credit-card",
-    "rights": "can_view_admin",
-    "subitem": [
-      {
-        "id": 1,
-        "nombre": " Emitir Nota Debito(33)",
-        "icon": "list",
-      },
-      {
-        "id": 2,
-        "nombre": "Estado Nota Debito(34)",
-        "icon": "list",
-      }
-    ]
-  }]
+	"user": [{
+		"id": 1,
+		"firstName": "Antony",
+		"lastName": "test"
+	}],
+
+	"ordenfabricacion": [{
+			"id": 1,
+			"descripcion": "masa pizza 4 queso",
+			"cantidad": 1,
+			"unidad": "und",
+			"insumos": [{
+					"id": 1,
+					"nombre": "azucar",
+					"cantidad": 1,
+					"unidad": "libras"
+				},
+				{
+					"id": 2,
+					"nombre": "sal",
+					"cantidad": 2,
+					"unidad": "paquetes"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"descripcion": "Pasta Salsa",
+			"cantidad": 5,
+			"unidad": "Paquete",
+			"insumos": [{
+					"id": 1,
+					"nombre": "queso",
+					"cantidad": 21,
+					"unidad": "libras"
+				},
+				{
+					"id": 2,
+					"nombre": "mantequilla",
+					"cantidad": 2,
+					"unidad": "paquetes"
+				}
+			]
+		}
+	],
+
+	"PedidosCC": [{
+		"Departamento": "Postres",
+		"NroPedido": "P001/1",
+		"Observaciones": "Redondo + Feliz cumpleanos",
+		"FechaCreacion": "21/3/22 15:16",
+		"FechaEntrega": "29/3/22 15:16",
+		"HoraEntrega": "16:00",
+		"Cliente": "Ada",
+		"Vendedor": "Ricardo",
+		"Sucursal": "CCN",
+		"EstadoReserva": 0,
+		"ReservaDescrip": "RESERVADO",
+		"ObservacionesP": "Observacion del pedido",
+		"ArticulosPCC": [{
+				"Descripcion": "Manjar de Crema y Fresas Gde.",
+				"Cantidad": 1,
+				"ObservacionesA": "Observacion del Articulo 1 ",
+				"Impreso": "True", 
+			        "Estado":  "True"
+			},
+			{
+				"Descripcion": "Manjar de Crema y Fresas Gde.",
+				"Cantidad": 1,
+				"ObservacionesA": "Observacion del Ariculo 2 ",
+				"Impreso": "False", 
+				"Estado":  "False"
+			},
+			{
+				"Descripcion": "Manjar de Crema y Fresas Gde.",
+				"Cantidad": 1,
+				"ObservacionesA": "Observacion del Ariculo 3.",
+				"Impreso": "True",
+				"Estado":  "False"
+			}
+		]
+	}], 
+	
+
+	
+  
+
 }
