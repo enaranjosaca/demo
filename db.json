@@ -83,6 +83,54 @@
 				}
 				    
 			]
+		}, 
+			{
+			"id": 4,
+			"descripcion": "Cofig. Empresa",
+			"open": false,
+			"icon": "credit-card",
+			"rights": "can_view_admin",
+			"subitem": [{
+					"id": 1,
+					"nombre": "Datos Iniciales",
+					"icon": "list"
+				},
+				{
+					"id": 2,
+					"nombre": "Listar Empresas",
+					"icon": "list"
+				},
+				{
+					"id": 3,
+					"nombre": "Logo",
+					"icon": "list"
+				}
+				    
+			]
+		}, 
+			{
+			"id": 5,
+			"descripcion": "Cofig. Permisos",
+			"open": false,
+			"icon": "credit-card",
+			"rights": "can_view_admin",
+			"subitem": [{
+					"id": 1,
+					"nombre": "Agregar Permisos",
+					"icon": "list"
+				},
+				{
+					"id": 2,
+					"nombre": "Asignar Roles",
+					"icon": "list"
+				},
+				{
+					"id": 3,
+					"nombre": "Config. App",
+					"icon": "list"
+				}
+				    
+			]
 		}
 	], 
 	
