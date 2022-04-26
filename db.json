@@ -7,7 +7,7 @@
 
 	"MenuListApp": [{
 			"id": 0,
-			"descripcion": "DashBoard",
+			"descripcion": "Dashboard",
 			"open": false,
 			"icon": "chart-bar",
 			"rights": "can_view_users",
@@ -22,20 +22,20 @@
 		},
 		{
 			"id": 1,
-			"descripcion": "Facturación Electronica",
+			"descripcion": "Inventario",
 			"open": false,
 			"icon": "ad",
 			"rights": "can_view_users",
 			"subitem": [{
 					"id": 1,
-					"nombre": " Emitir F. Credito Fiscal(31)",
+					"nombre": " Emitir Conteo",
 					"icon": "list",
 					"path": "/test",
 					"component": "Test"
 				},
 				{
 					"id": 2,
-					"nombre": "Estado F. Credito Fiscal(31)",
+					"nombre": "Listar Articulos",
 					"icon": "list",
 					"path": "/test2",
 					"component": "Test"
@@ -44,18 +44,18 @@
 		},
 		{
 			"id": 2,
-			"descripcion": "Notas Electrónicas",
+			"descripcion": "Cuentas por Cobrar",
 			"open": false,
 			"icon": "credit-card",
 			"rights": "can_view_admin",
 			"subitem": [{
 					"id": 1,
-					"nombre": "Emitir Nota Debito(33)",
+					"nombre": "Revisar Documentos",
 					"icon": "list"
 				},
 				{
 					"id": 2,
-					"nombre": "Estado Nota Debito(37)",
+					"nombre": "Enviar Documentos",
 					"icon": "list"
 				}
 			]
