@@ -103,7 +103,7 @@
       }
   
     ], 
-	"MenuListApp" = [
+	"MenuListApp" : [
   {
     id: 0,
     descripcion: "DashBoard",
