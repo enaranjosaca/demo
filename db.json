@@ -82,27 +82,7 @@
 		]
 	}], 
 	
-    "roles": [
-      {
-        "id": 1,
-        "rol": "admin",
-        "caption": "Administrador",
-        "value" : "admin",
-        "active": true,
-        "read" : true, 
-        "write" : true
-      },  
-      {
-        "id": 2,
-        "rol": "user",
-        "caption": "Usuario",
-        "value" : "user",
-        "active": true,
-        "read" : true, 
-        "write" : false
-      }
-  
-    ], 
+
 	"MenuListApp" : [
   {
     "id": 0,
@@ -118,8 +98,8 @@
         "icon": "list",
         "path": "/analytics",
         "component": "Analytics"
-      },
-    ],
+      }
+    ]
   },
   {
     "id": 1,
@@ -141,8 +121,8 @@
         "icon": "list",
         "path": "/test2",
         "component": "Test"
-      },
-    ],
+      }
+    ]
   },
   {
     "id": 2,
@@ -160,10 +140,9 @@
         "id": 2,
         "nombre": "Estado Nota Debito(34)",
         "icon": "list",
-      },
-    ],
-  },
-]
+      }
+    ]
+  }]
   
 
 }
