@@ -136,12 +136,14 @@
 			"id": 6,
 			"descripcion": "Cofig. Cuenta",
 			"open": false,
-			"icon": "user-edit",
+			"icon": "user",
 			"rights": "can_view_users",
 			"subitem": [{
 					"id": 1,
 					"nombre": "Editar Cuenta",
-					"icon": "user"
+					"icon": "user-edit",
+					"path": "/profile",
+        				"component": "Profile"
 				}
 				    
 			]
