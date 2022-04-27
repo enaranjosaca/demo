@@ -136,12 +136,12 @@
 			"id": 6,
 			"descripcion": "Cofig. Cuenta",
 			"open": false,
-			"icon": "credit-card",
+			"icon": "user-edit",
 			"rights": "can_view_users",
 			"subitem": [{
 					"id": 1,
 					"nombre": "Editar Cuenta",
-					"icon": "list"
+					"icon": "user"
 				}
 				    
 			]
