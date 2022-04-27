@@ -131,6 +131,20 @@
 				}
 				    
 			]
+		},
+			{
+			"id": 6,
+			"descripcion": "Cofig. Cuenta",
+			"open": false,
+			"icon": "credit-card",
+			"rights": "can_view_users",
+			"subitem": [{
+					"id": 1,
+					"nombre": "Editar Cuenta",
+					"icon": "list"
+				}
+				    
+			]
 		}
 	], 
 	
