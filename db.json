@@ -142,7 +142,7 @@
 					"id": 1,
 					"nombre": "Editar Cuenta",
 					"icon": "user-edit",
-					"path": "/profile",
+					"path": "/users/profile",
         				"component": "Profile"
 				}
 				    
