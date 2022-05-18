@@ -134,7 +134,7 @@
 		},
 			{
 			"id": 6,
-			"descripcion": "Cofig, Mi Cuenta",
+			"descripcion": "Cofig, Mi Cuenta.",
 			"open": false,
 			"icon": "user",
 			"rights": "can_view_users",
