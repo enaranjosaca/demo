@@ -17,7 +17,7 @@
 				"nombre": " Analytics",
 				"icon": "list",
 				"path": "/analytics",
-				"component": Analytics
+				"component": "Analytics"
 			}]
 		},
 		{
