@@ -14,7 +14,7 @@
 			"path": "/",
 			"subitem": [{
 				"id": 1,
-				"nombre": " Analytics",
+				"nombre": "Analytics",
 				"icon": "list",
 				"path": "/analytics",
 				"component": "Analytics"
