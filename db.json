@@ -18,6 +18,7 @@
 				"icon": "list",
 				"path": "/analytics",
 				"component": "Analytics"
+				"pathComp": "./analytics/index",
 			}]
 		},
 		{
@@ -143,7 +144,8 @@
 					"nombre": "Mi Cuenta",
 					"icon": "user-edit",
 					"path": "/users/profile",
-        				"component": "Profile"
+        				"component": "Profile", 
+				        "pathComp": "../users/index",
 				}
 				    
 			]
