@@ -18,7 +18,7 @@
 				"icon": "list",
 				"path": "/analytics",
 				"component": "Analytics",
-				"pathComp": "./analytics/index",
+				"pathComp": "./analytics/index"
 			}]
 		},
 		{
@@ -145,7 +145,7 @@
 					"icon": "user-edit",
 					"path": "/users/profile",
         				"component": "Profile", 
-				        "pathComp": "../users/index",
+				        "pathComp": "../users/index"
 				}
 				    
 			]
