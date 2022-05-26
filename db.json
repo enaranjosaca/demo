@@ -143,7 +143,7 @@
 					"id": 1,
 					"nombre": "Mi Cuenta",
 					"icon": "user-edit",
-					"path": "/users/profile",
+					"path": "/users",
         				"component": "Profile", 
 				        "pathComp": "../users/index"
 				}
