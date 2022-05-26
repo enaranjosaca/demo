@@ -29,7 +29,7 @@
 			"rights": "can_view_admin",
 			"subitem": [{
 					"id": 1,
-					"nombre": " Emitir Conteo Test",
+					"nombre": " Emitir Con Test",
 					"icon": "list",
 					"path": "/test",
 					"component": "Test"
