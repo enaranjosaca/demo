@@ -10,7 +10,7 @@
 			"descripcion": "Dashboard",
 			"open": false,
 			"icon": "chart-bar",
-			"rights": "can_view_users",
+			"rights": "can_view_admin",
 			"path": "/",
 			"subitem": [{
 				"id": 1,
