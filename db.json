@@ -15,6 +15,11 @@
 		"id": 2,
 		"value": "user",
 		"caption": "Usuario"
+	}, 
+		{
+		"id": 3,
+		"value": "representante",
+		"caption": "Representante"
 	}
 	],
 
