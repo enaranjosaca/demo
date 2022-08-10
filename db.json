@@ -4,6 +4,19 @@
 		"firstName": "Antony",
 		"lastName": "test"
 	}],
+	
+	"roles": [
+		{
+		"id": 1,
+		"value": "admin",
+		"caption": "Administrador"
+		}, 
+		{
+		"id": 2,
+		"value": "user",
+		"caption": "Usuario"
+	}
+	],
 
 	"MenuListApp": [{
 			"id": 0,
