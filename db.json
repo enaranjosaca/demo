@@ -4,6 +4,16 @@
 		"firstName": "Antony",
 		"lastName": "test"
 	}],
+
+	"rnc": [{
+		"CedulaRnc": "130-91218-1",
+		"NombreRazonSocil": "ICG DOMINICANA"
+	}, 
+	{
+		"CedulaRnc": "132-10912-2",
+		"NombreRazonSocil": "ALANUBE SOLUCIONES"
+	}
+	],
 	
 	"roles": [
 		{
